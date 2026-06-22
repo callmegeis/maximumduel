@@ -1,9 +1,9 @@
 // Add new chapters here. Every page sidebar and the Table of Contents update from this list.
 // Put chapters in reading order.
 window.MAXIMUM_DUEL_CHAPTERS = [
-  // {
-  //   title: "Chapter 1: Your Chapter Title",
-  //   file: "chapters/chapter-001.html",
-  //   date: "June 22, 2026"
-  // }
+  {
+    title: "Round 1, Match 1",
+    file: "chapters/chapter-001.html",
+    date: "June 22, 2026"
+  }
 ];
